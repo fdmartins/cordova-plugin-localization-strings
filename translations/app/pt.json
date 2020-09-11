@@ -1,0 +1,17 @@
+{
+	"locale": {
+		"android": ["pt_BR"],
+		"ios":["pt-BR"]
+	},
+	"config_ios" : {
+		"NSCameraUsageDescription": "Tirar fotos",
+		"CFBundleDisplayName": "App Name",
+		"CFBundleName": "App Name"
+	},
+	"config_android" : {
+		"app_name": "App Name"
+	},
+	"app" : {
+		"HAVE_MAIL_TITLE": "You have mail."
+	}
+}
